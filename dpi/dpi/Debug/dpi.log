@@ -1,0 +1,5 @@
+﻿  dpi.cpp
+c:\users\thomas\onedrive\codes\dpi\dpi.cpp(8): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\thomas\onedrive\codes\dpi\dpi.cpp(12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  dpi.vcxproj -> C:\Users\Thomas\OneDrive\codes\dpi\dpi\Debug\dpi.exe
+  dpi.vcxproj -> C:\Users\Thomas\OneDrive\codes\dpi\dpi\Debug\dpi.pdb (Full PDB)
